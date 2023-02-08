@@ -82,7 +82,7 @@
 	<repositories>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/qqdog1/technical-analysis-core</url>
+			<url>https://maven.pkg.github.com/boxi79/technical-analysis-core</url>
 		</repository>
 	</repositories>
 </project>
